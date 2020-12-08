@@ -1,12 +1,14 @@
 # SENAI-Aula.35
-<p>Foi realizado programas básicos em C# no curso de Desenvolvimento de sistemas para praticar o desenvolvimento da aprendizagem de laços de repetição.</p>
+<p>Foi realizado programas básicos em C# no curso de Desenvolvimento de sistemas para praticar sobre condicionais, laços de repetição, arrays e funções.</p>
 <ul>
- <li><strong>1º Exercício</strong> - Foi feito um programa que pede o ano atual e a data de nascimento de uma pessoa, enviando uma mensagem se ela poderá votar esse ano ou não.</li>
- <li><strong>2º Exercício</strong> - Foi feito um programa que lê quantos litros e qual combustivel você quer comprar, podendo então retornar o valor com desconto.</li>
- <li><strong>3º Exercício</strong> - Foi feito um programa que lê a descrição do produto, a quantidade adquirida e o preço unitario, retornando o valor total com desconto.</li>
- <li><strong>4º Exercício</strong> - Foi feito um programa que lê 10 valores e mostra qual o menor e maior entre eles.</li>
-  <li><strong>5º Exercício</strong> - Foi feito um programa mostra a tabuada de 1 a 10.</li>
-  <li><strong>6º Exercício</strong> - Foi feito um programa que lê 10 nomes, depois é possível colocar outro nome para procura-lo entre os 10 nomes digitados. Se o nome procurado é achado entre a "lista", o programa envia uma mensagem de "Achei", caso contrario "Nõ achei".</li>
- <li><strong>7º Exercício</strong> - Foi feito um programa que lê 15 números e armaza-os em um vetor, devolvolvendo-os na ordem inversa do que foi escrito.</li>
+ <li><strong>1º Exercício</strong> - Foi feito um programa que pede uma nota, entre zero e dez, em que uma mensagem caso o valor seja inválido e continue pedindo até que o usuário informe um valor válido.</li>
+ <li><strong>2º Exercício</strong> - Foi feito um programa que lê um nome de usuário e a sua senha e não aceite a senha igual ao nome do usuário, mostrando uma mensagem de erro e voltando a pedir as informações.</li>
+ <li><strong>3º Exercício</strong> - Foi feito um programa que lê e valida as seguintes informações:
+   <ol>
+    <li>Nome: diferente de vazio;</li>
+    <li>Idade: entre 0 e 150;</li>
+    <li>Salário: maior que zero;</li>
+    <li>Estado Civil: 's'(solteiro(a)), 'c'(casado(a)), 'v'(viuvo(a)), 'd'(divorciado(a));</li>
+    </ol>
+ <li><strong>4º Desafio</strong> - Simula a sequência de Fibonacci, gerando a série até que o valor seja maior que 500..</li>
 </ul>
-
