@@ -10,5 +10,5 @@
     <li>Salário: maior que zero;</li>
     <li>Estado Civil: 's'(solteiro(a)), 'c'(casado(a)), 'v'(viuvo(a)), 'd'(divorciado(a));</li>
     </ol>
- <li><strong>4º Desafio</strong> - Simula a sequência de Fibonacci, gerando a série até que o valor seja maior que 500..</li>
+ <li><strong>4º Desafio</strong> - Simula a sequência de Fibonacci, gerando a série até que o valor seja maior que 500.</li>
 </ul>
